@@ -2,6 +2,7 @@
 An update to the garages
 
 -Added Police and Ambulance Car park; also management actions for 'boss'
+
 -Client Optimization
 
 # License
